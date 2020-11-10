@@ -1,0 +1,20 @@
+.collapse-content .fa.fa-heart:hover {
+    color: #f44336 !important;
+  }
+  .collapse-content .fa.fa-share-alt:hover {
+    color: #0d47a1 !important;
+  }
+  .card {
+      border: 1px solid skyblue;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      margin-right: 15px;
+      padding-left: 10px;
+      padding-right: 5px;
+  }
+  .card-title{
+    font-size: 20px;
+    text-align: center;
+  }
+  .card:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
